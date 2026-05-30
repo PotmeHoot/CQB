@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#070b10"/>
+  <path d="M0 260h1920v820H0z" fill="#0d1722"/>
+  <rect x="300" y="160" width="1320" height="520" fill="#0a1119" stroke="#2f6b9a" stroke-width="8"/>
+  <path d="M360 610h1200M960 160v520" stroke="#244963" stroke-width="3"/>
+  <text x="960" y="455" fill="#9bcdf4" font-family="Arial" font-size="78" font-weight="700" text-anchor="middle">BRIEFING ROOM PLACEHOLDER</text>
+</svg>

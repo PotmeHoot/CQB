@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#080c11"/>
+  <rect x="340" y="180" width="1240" height="720" fill="#101923" stroke="#335f7d" stroke-width="6"/>
+  <g fill="#16283a">
+    <rect x="430" y="300" width="340" height="420"/>
+    <rect x="820" y="300" width="240" height="420"/>
+    <rect x="1110" y="300" width="380" height="420"/>
+  </g>
+  <text x="960" y="812" fill="#9bcdf4" font-family="Arial" font-size="74" font-weight="700" text-anchor="middle">AFTER ACTION PLACEHOLDER</text>
+</svg>

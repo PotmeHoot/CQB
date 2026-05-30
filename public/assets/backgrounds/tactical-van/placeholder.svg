@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#05080c"/>
+      <stop offset="1" stop-color="#102436"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <rect x="260" y="380" width="1400" height="300" rx="24" fill="#111a24" stroke="#315f82" stroke-width="6"/>
+  <circle cx="510" cy="705" r="74" fill="#071018" stroke="#477da3" stroke-width="8"/>
+  <circle cx="1390" cy="705" r="74" fill="#071018" stroke="#477da3" stroke-width="8"/>
+  <text x="960" y="530" fill="#9bcdf4" font-family="Arial" font-size="74" font-weight="700" text-anchor="middle">TACTICAL VAN PLACEHOLDER</text>
+</svg>

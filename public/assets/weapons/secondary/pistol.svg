@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#071018"/>
+  <path d="M160 158h330l34 42h116v42H402l-38 96h-86l22-96H160z" fill="none" stroke="#9bcdf4" stroke-width="16" stroke-linejoin="round"/>
+  <text x="400" y="354" fill="#9bcdf4" font-family="Arial" font-size="42" font-weight="700" text-anchor="middle">SECONDARY WEAPON</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#071018"/>
+  <circle cx="256" cy="234" r="118" fill="none" stroke="#f3c85b" stroke-width="18"/>
+  <path d="M256 116v236M138 234h236" stroke="#f3c85b" stroke-width="18"/>
+  <text x="256" y="444" fill="#f3c85b" font-family="Arial" font-size="38" font-weight="700" text-anchor="middle">GADGET</text>
+</svg>

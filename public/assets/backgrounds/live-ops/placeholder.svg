@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#05080c"/>
+  <g fill="none" stroke="#254a65" stroke-width="3" opacity=".75">
+    <path d="M240 180h1440v720H240z"/>
+    <path d="M240 360h1440M240 540h1440M240 720h1440M480 180v720M720 180v720M960 180v720M1200 180v720M1440 180v720"/>
+  </g>
+  <circle cx="640" cy="440" r="18" fill="#55b7ff"/>
+  <circle cx="1120" cy="620" r="18" fill="#ff5b65"/>
+  <circle cx="1380" cy="380" r="18" fill="#f3c85b"/>
+  <text x="960" y="955" fill="#9bcdf4" font-family="Arial" font-size="78" font-weight="700" text-anchor="middle">LIVE OPS PLACEHOLDER</text>
+</svg>

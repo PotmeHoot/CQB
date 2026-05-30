@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536">
+  <rect width="1024" height="1536" fill="#071018"/>
+  <circle cx="512" cy="230" r="110" fill="#223545" stroke="#6da7ce" stroke-width="12"/>
+  <path d="M350 390h324l86 420-118 48 72 520H310l72-520-118-48z" fill="#172532" stroke="#6da7ce" stroke-width="12"/>
+  <text x="512" y="1460" fill="#9bcdf4" font-family="Arial" font-size="80" font-weight="700" text-anchor="middle">OPERATOR FULL BODY</text>
+</svg>
